@@ -45,7 +45,7 @@ tower.laser = {
     // Display
     color: [25, 181, 254],
     length: 0.55,
-    radius: 0.8,
+    radius: 80,
     secondary: [149, 165, 166],
     width: 0.25,
     // Misc
@@ -54,8 +54,8 @@ tower.laser = {
     // Stats
     cooldownMax: 1,
     cost: 75,
-    damageMax: 3,
-    range: 2,
+    damageMax: 300,
+    range: 20,
     type: 'energy',
     // Upgrades
     upgrades: [
